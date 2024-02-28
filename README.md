@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kamilla!
+##  👋 Hi, I’m Kamilla!
 - 👩‍⚕️ I’m a former physiotherapist turned tech enthusiast
 - 💻 Developing skills in Python, Power BI, and programming
 - 🚀 Transitioning into a tech-driven career journey
